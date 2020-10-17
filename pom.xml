@@ -117,7 +117,7 @@
     <hibernate.version>5.2.17.Final</hibernate.version>
     <hibernate.jpa.version>1.0.0.Final</hibernate.jpa.version>
     <testng.version>6.9.10</testng.version>
-    <slf4j.version>1.7.12</slf4j.version>
+    <slf4j.version>1.7.30</slf4j.version>
     <slf4j.log4j12.version>1.7.10</slf4j.log4j12.version>
     <io.swagger.version>1.5.9</io.swagger.version>
     <commons-beanutils.version>1.9.2</commons-beanutils.version>
@@ -158,7 +158,7 @@
     <nifi.version.override>1.2.0</nifi.version.override>
     <powermock.version>1.6.3</powermock.version>
     <quartz.version>2.2.1</quartz.version>
-    <slf4j.version>1.7.12</slf4j.version>
+    <slf4j.version>1.7.30</slf4j.version>
     <scala.version>2.10.7</scala.version>
     <scala.binary.version>2.10</scala.binary.version>
     <spark.version>1.6.1</spark.version>
