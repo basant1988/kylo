@@ -131,7 +131,7 @@
     <commons.collections>3.2.2</commons.collections>
     <commons.csv>1.4</commons.csv>
     <commons.codec>1.10</commons.codec>
-    <elasticsearch.version.two>2.3.0</elasticsearch.version.two>
+    <elasticsearch.version.two>6.8.13</elasticsearch.version.two>
     <lombok.version>1.16.10</lombok.version>
     <lucene.version.elasticsearch.version.two>5.5.0</lucene.version.elasticsearch.version.two>
     <guava.version>19.0</guava.version>
