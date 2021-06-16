@@ -176,7 +176,7 @@
     <jose4j.version>0.5.4</jose4j.version>
     <jetbrains-annotations.version>15.0</jetbrains-annotations.version>
     <assertj.version>3.4.1</assertj.version>
-    <org.reflections.version>0.9.9</org.reflections.version>
+    <org.reflections.version>0.9.12</org.reflections.version>
     <querydsl.version>4.1.4</querydsl.version>
     <findbugs.version>3.0.1</findbugs.version>
     <pig.version>0.15.0</pig.version>
