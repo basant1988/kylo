@@ -109,7 +109,7 @@
     <automatic-release-repo-promotion>false</automatic-release-repo-promotion>
     <activemq.version>5.15.6</activemq.version>
     <avro.version>1.7.7</avro.version>
-    <jersey.version>2.22.2</jersey.version>
+    <jersey.version>2.23</jersey.version>
     <jackson.version>2.9.6</jackson.version>
     <jackson.databind.version>2.8.11</jackson.databind.version>
     <jackson.scala.version>2.9.5</jackson.scala.version>
@@ -142,7 +142,7 @@
     <httpclient.version>4.5.1</httpclient.version>
     <javax.mail>1.5.5</javax.mail>
     <javax.servlet.version>3.1.0</javax.servlet.version>
-    <jersey.version>2.22.2</jersey.version>
+    <jersey.version>2.23</jersey.version>
     <joda.time.version>2.9.2</joda.time.version>
     <junit.version>4.12</junit.version>
     <maven.compiler.plugin.version>3.8.0</maven.compiler.plugin.version>
