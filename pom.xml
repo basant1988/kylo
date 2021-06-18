@@ -154,7 +154,7 @@
     <mockito.version>1.10.19</mockito.version>
     <!-- The maria db driver version is references in the post-install.sh file. Manually update it there if you change it here.  -->
     <mariadb.version>1.5.7</mariadb.version>
-    <nifi.version>1.0.0</nifi.version>
+    <nifi.version>1.12.0</nifi.version>
     <nifi.version.override>1.2.0</nifi.version.override>
     <powermock.version>1.6.3</powermock.version>
     <quartz.version>2.2.1</quartz.version>
@@ -1429,7 +1429,7 @@
         <activeByDefault>false</activeByDefault>
       </activation>
       <properties>
-        <nifi.version>${nifi.version.override}</nifi.version>
+        <nifi.version>1.12.0</nifi.version>
       </properties>
     </profile>
     <profile>
@@ -1438,7 +1438,7 @@
         <activeByDefault>false</activeByDefault>
       </activation>
       <properties>
-        <nifi.version>1.4.0</nifi.version>
+        <nifi.version>1.12.0</nifi.version>
       </properties>
     </profile>
     <profile>
@@ -1447,7 +1447,7 @@
         <activeByDefault>false</activeByDefault>
       </activation>
       <properties>
-        <nifi.version>1.5.0</nifi.version>
+        <nifi.version>1.12.0</nifi.version>
       </properties>
     </profile>
     <profile>
@@ -1456,7 +1456,7 @@
         <activeByDefault>false</activeByDefault>
       </activation>
       <properties>
-        <nifi.version>1.6.0</nifi.version>
+        <nifi.version>1.12.0</nifi.version>
       </properties>
     </profile>
 
