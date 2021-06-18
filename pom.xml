@@ -182,8 +182,8 @@
     <pig.version>0.15.0</pig.version>
     <gson.version>2.2.4</gson.version>
     <h2.version>1.4.187</h2.version>
-    <aws.java.sdk.version>1.7.4</aws.java.sdk.version>
-    <amazon.sqs.java.messaging.lib.version>1.0.0</amazon.sqs.java.messaging.lib.version>
+    <aws.java.sdk.version>1.8.10</aws.java.sdk.version>
+    <amazon.sqs.java.messaging.lib.version>1.0.1</amazon.sqs.java.messaging.lib.version>
 
     <!-- Plugin Versions -->
     <plugin.license.version>1.16</plugin.license.version>
