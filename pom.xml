@@ -112,7 +112,7 @@
     <jersey.version>2.22.2</jersey.version>
     <jackson.version>2.9.6</jackson.version>
     <jackson.databind.version>2.8.11</jackson.databind.version>
-    <jackson.scala.version>2.9.5</jackson.scala.version>
+    <jackson.scala.version>2.11.0</jackson.scala.version>
     <rxjava.version>2.2.0</rxjava.version>
     <hibernate.version>5.2.17.Final</hibernate.version>
     <hibernate.jpa.version>1.0.0.Final</hibernate.jpa.version>
@@ -134,7 +134,7 @@
     <elasticsearch.version.two>2.3.0</elasticsearch.version.two>
     <lombok.version>1.16.10</lombok.version>
     <lucene.version.elasticsearch.version.two>5.5.0</lucene.version.elasticsearch.version.two>
-    <guava.version>19.0</guava.version>
+    <guava.version>30.0-android</guava.version>
     <hadoop.version>2.6.2</hadoop.version>
     <hamcrest.version>1.3</hamcrest.version>
     <hive.version>1.1.0</hive.version>
